@@ -1,0 +1,22 @@
+<！DOCTYPE html>
+< html >
+< 头 >
+	< meta  charset = “ utf-8 ” />
+	< meta  name = “ viewport ”  content = “ width = device-width，initial-scale = 1 ” />
+	< title >九宫格</ title >
+	< link  rel = “ stylesheet ”  type = “ text / css ”  href = “ task1.css ” >
+</ head >
+< body >
+< div  class = wrap >
+  < div > </ div >
+  < div > </ div >
+  < div > </ div >
+  < div > </ div >
+  < div > </ div >
+  < div > </ div >
+  < div > </ div >
+  < div > </ div >
+  < div > </ div >
+</ div >
+</ body >
+</ html >
